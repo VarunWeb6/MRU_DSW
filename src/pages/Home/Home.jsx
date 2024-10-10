@@ -36,11 +36,11 @@ function Home() {
         <header className='h-100 min-vh-100 d-flex align-items-center text-light'>
             <div className='container d-flex flex-column align-items-center'>
                 <h2>Welcome To</h2>
-                <h1 className='text-center fw-semibold'>React University London</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, fugit? Doloremque deserunt ipsum eaque, dolor tempore, minima nisi debitis, et quas voluptatibus nam ex. Necessitatibus eligendi ratione expedita! Porro, ut.</p>
+                <h1 className='text-center fw-semibold'>Department Of Student Welfare</h1>
+                <p>Manav Rachna University is committed to helping its students achieve success in all aspects of their lives, including academic, personal, and social. The university recognizes that successful individuals possess a combination of high-quality life, a successful career, and a positive impact on society. To help students achieve these goals, the university offers a unique Clan-based Life Skills Program that focuses on enhancing life skills, developing career skills, promoting values, leadership, and communication, and fostering purposeful living.</p>
                 <div className='d-flex flex-column flex-sm-row align-items-center'>
                     <Link to="/courses">
-                        <button type='button' className='btn btn-danger btn-lg mx-0 mx-sm-2 my-2 my-sm-0'>Our Courses</button>
+                        <button type='button' className='btn btn-danger btn-lg mx-0 mx-sm-2 my-2 my-sm-0'>Our Moto</button>
                     </Link>
                     <Link to="/contact">
                         <button type='button' className='btn btn-outline-light btn-lg mx-0 mx-sm-2 my-2 my-sm-0'>Contact Us</button>
@@ -58,7 +58,7 @@ function Home() {
                 <div className='row d-flex align-items-center justify-content-around'>
                     <div className='col-lg-5'>
                         <h2 className='text-capitalize'>2024 start courses</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, placeat.</p>
+                        <p>Here are descriptions of popular and trending courses in 2024 across various disciplines, driven by emerging technologies, industry demand, and societal changes</p>
                         <Link to="/courses">
                             <button type='button' className='btn btn-danger btn-lg mx-0 mx-sm-2 my-2 my-sm-0'>Learn More</button>
                         </Link>

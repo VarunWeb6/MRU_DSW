@@ -16,7 +16,7 @@ const blogs = [
     {
         id: 1,
         img: [Blog1Img],
-        title: 'Blog 1',
+        title: 'Cultural Fest',
         description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia voluptas suscipit ratione quod culpa, eius ad consequatur, dolor quasi nulla optio quo error tempora temporibus distinctio quidem asperiores dolore ex amet nam. Consequatur, odit corporis.'
     },
     {
@@ -74,8 +74,9 @@ function Blog() {
     <div className='blog-page'>
         <header className='height-75'>
             <div className='container h-100 d-flex flex-column align-items-center justify-content-center text-light'>
-                <h1 className='text-center fw-semibold'>Blog</h1>
-                <p className='text-center w-75 mb-5'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia voluptas suscipit ratione quod culpa, eius ad consequatur, dolor quasi nulla optio quo error tempora temporibus distinctio quidem asperiores dolore ex amet nam. Consequatur, odit corporis.</p>
+                <h1 className='text-center fw-semibold'>Blogs</h1>
+                <p className='text-center w-75 mb-5'>College Life: A Journey Beyond Academics <br></br>
+                    Our college blog is your go-to destination for insightful stories, valuable tips, and campus updates. Whether you're a prospective student or already a part of our community, we bring you firsthand experiences, academic advice, and the latest news about campus events, programs, and opportunities.</p>
             </div>
         </header>
 

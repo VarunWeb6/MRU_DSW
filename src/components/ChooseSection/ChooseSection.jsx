@@ -5,7 +5,7 @@ function ChooseSection() {
   return (
     <div>
         <div className="container">
-            <h2 className='text-center mb-5'>Why choose React University ?</h2>
+            <h2 className='text-center mb-5'>Why choose Our University ?</h2>
             <div className='row g-4'>
                 <div className='col-lg-4'>
                     <Card className='d-flex align-items-center border-0 h-100'>
@@ -16,10 +16,10 @@ function ChooseSection() {
                         </div>
                         <Card.Body>
                             <Card.Title className='text-center text-capitalize mb-3'>
-                                2 trophies received
+                            Students Enhancement
                             </Card.Title>
                             <Card.Text className='text-center'>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit laborum qui facilis perspiciatis, ab pariatur! Eaque maxime ratione illum distinctio?
+                            The Students Welfare department manages the Life Skills Program and the Clan-based structure, which includes four clans: Wild Cats, Forest Rhinos, Water Sharks, and Air Falcons
                             </Card.Text>
                         </Card.Body>
                     </Card>
@@ -36,7 +36,7 @@ function ChooseSection() {
                                 We keep our students happy
                             </Card.Title>
                             <Card.Text className='text-center'>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit laborum qui facilis perspiciatis, ab pariatur! Eaque maxime ratione illum distinctio?
+                            The department aims to create an environment that promotes academic excellence and personal development while keeping the fun factor alive. 
                             </Card.Text>
                         </Card.Body>
                     </Card>
@@ -50,10 +50,10 @@ function ChooseSection() {
                         </div>
                         <Card.Body>
                             <Card.Title className='text-center text-capitalize mb-3'>
-                                3 locations in UK
+                                Festivals
                             </Card.Title>
                             <Card.Text className='text-center'>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit laborum qui facilis perspiciatis, ab pariatur! Eaque maxime ratione illum distinctio?
+                            These celebrations provide students with opportunities to learn about different cultures and participate in events that showcase their own talents.
                             </Card.Text>
                         </Card.Body>
                     </Card>
